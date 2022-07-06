@@ -6,3 +6,6 @@ This is my GitHub page. I will probably use this for:
 
 ## about
 I am a tech journalist. I took BASIC in ninth grade but haven't coded since. I'm working with the garage door open. 
+
+## todo
+[ ] Port FC660C Alt Controller to Vial
